@@ -47,11 +47,11 @@ Create and organize your own flashcards in just a few taps. Whether you’re stu
 * User can edit and delete Flashcards 
 * User can edit and delete "family" of flashcards 
 * User's can enter study mode and tap on the screen to see answer of question
-* User's Flashcards will be saved localy for offline use.
+* User's Flashcards will be saved locally for offline use.
 
 **Optional Nice-to-have Stories**
 
-* User can edit color sceme per family of Flash Cards 
+* User can edit color scheme per family of Flash Cards 
 * User can randomize the order Flashcards apear in
 
 ### 2. Screen Archetypes
@@ -125,7 +125,35 @@ Create and organize your own flashcards in just a few taps. Whether you’re stu
 
 [This section will be completed in Unit 9]
 
+## Sprint Plan
+
+## Development Timeline (Sprints)
+
+### Sprint 1: Project Setup & Core UI (Week 1)
+
+**Goals:**
+- Set up Xcode project and GitHub repo
+- Create tab navigation with Decks and Settings tab
+- Build Deck List screen with placeholder families
+- Add navigation to Family Detail screen
+- Create Card Edit screen layout
+- Push all starter code to `sprint-1` branch
+
+### Sprint 2: Functionality & Polishing (Week 2)
+
+**Goals:**
+- Add ability to create, edit, and delete flashcards and families
+- Implement study mode screen (flip through cards)
+- Save data locally using UserDefaults or Codable + FileManager
+- Implement shuffle/randomization
+- Optional: Add color scheme feature per family
+- Final polish and bug fixes
+- Record demo video and update README with GIF/screenshots
+
+
 ### Models
+
+
 
 [Add table of models]
 
@@ -133,5 +161,6 @@ Create and organize your own flashcards in just a few taps. Whether you’re stu
 
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]# Brandon-Capstone-App
+- [OPTIONAL: List endpoints if using existing API such as Yelp]
+# Brandon-Capstone-App
 
