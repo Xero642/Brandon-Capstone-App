@@ -1,0 +1,62 @@
+# Capstone Brainstorming
+
+## Step 1: New App Ideas 
+
+1. **Conversion App** – Users can imput a value such as ounce, pound, ton and convert it into grams and kilos
+2. **Meal Planner** – Similar to our planner app users plan meals for the week, save recipes (This can be the
+Description part just more fancied out), and be able to see their planned meal's for ther days they listed.
+3. **Tip Calculator** – User enters a total amount and can choose the % they would like to tip and the app
+will both tell them the tip amount and the Total+Tip amount.
+4. **Daily Quote App** - Users can enter the app on a daily basis to see a newly generated quote with the option
+to favrote the quote so they can go back to a quote they really liked. 
+5. **Simple Budgeting App** – Allows users to set spending limits by category and track expenses daily.
+6. **Flash Cards** – Users create personal flashacards for their intrests, these can be stored and managed in
+diffrent groups so User can create and tap diffrent flashcards when needed. 
+
+## Step 2: Top 2
+
+1. Tip Calculator
+   - **Description**: Allow's users to enters a total amount of a meal then add either select a pre assigned tip % (eg.15%,20%,25%) or add in their custom amount and then we will both tell them the tip amount and the Total+Tip amount.
+   - **Category:** Utility
+   - **Mobile:** Mobile could be essential for this because users can confirm that the displayed tip amount on the screen or recipt is accurate and if not provided can use this app fast and seemlessly.  
+   - **Story:** When going to a resurant with friends sometimes a suggestsed tip dosen't appear, Cluless of what 15% of $117.89 is, you oen the Tip Calculator app, you simply imput $117.89, select 15% and boom now you know tip is $17.68 making your total 135.57. Additionally you go to a bobba spot after, they flip the ipad over for you to pay and you notice that the 15% tip of your $17.62 order is apperently $3.20 a quick check on the app reveals the true amount should be $2.64.   
+   - **Market:** Any frugal food lover who still wants to tip, or any foodie lover who often finds themseleves at restaurants. 
+   - **Habit:** An average person my open this app between once to twice a week depending on how ofen one goes out, Influencers who often travel large cities such as LA or NYC could see themselves using this app daily to make sure they aren't being taken advanatge of. 
+   - **Scope:** Not very technically challenging it would just be grabing User input and runing it though a algorithm, having the presets would also be easy bnecause it would just auto do what it needs to do. The stripped down version might be a little boring. I see it as more of a one purpose calculator app  like the name suggests, it really only serves one purpose. While it's functional, there's not much to explore or interact with beyond entering a number and seeing the result, so it’s not particularly cool.
+
+2. FlashCards-
+   - **Description**:Users create personal flashacards for their # Capstone Brainstorming
+
+## Step 1: New App Ideas
+
+1. **Conversion App** – Users can input a value, such as ounce, pound, ton, and convert it into grams and kilos.  
+2. **Meal Planner** – Similar to our planner app, users plan meals for the week, save recipes (this can be the description part, just more fancied out), and be able to see their planned meals for the days they listed.  
+3. **Tip Calculator** – User enters a total amount, and can choose the % they would like to tip, and the app will both tell them the tip amount and the Total + Tip amount.  
+4. **Daily Quote App** – Users can enter the app on a daily basis to see a newly generated quote, with the option to favorite the quote so they can go back to a quote they really liked.  
+5. **Simple Budgeting App** – Allows users to set spending limits by category and track expenses daily.  
+6. **Flash Cards** – Users create personal flashcards for their interests; these can be stored and managed in different groups, so users can create and tap different flashcards when needed.  
+
+## Step 2: Top 2
+
+1. **Tip Calculator**  
+   - **Description**: Allows users to enter a total amount of a meal, then select a pre-assigned tip % (e.g., 15%, 20%, 25%) or add in their custom amount, and then it will tell them both the tip amount and the Total + Tip amount.  
+   - **Category:** Utility  
+   - **Mobile:** Mobile could be essential for this because users can confirm that the displayed tip amount on the screen or receipt is accurate, and if not provided, can use this app fast and seamlessly.  
+   - **Story:** When going to a restaurant with friends, sometimes a suggested tip doesn't appear. Clueless of what 15% of $117.89 is, you open the Tip Calculator app, you simply input $117.89, select 15%, and boom—now you know the tip is $17.68, making your total $135.57. Additionally, you go to a boba spot after, they flip the iPad over for you to pay, and you notice that the 15% tip of your $17.62 order is apparently $3.20. A quick check on the app reveals the true amount should be $2.64.  
+   - **Market:** Any frugal food lover who still wants to tip, or any foodie lover who often finds themselves at restaurants.  
+   - **Habit:** An average person may open this app between once to twice a week depending on how often one goes out. Influencers who often travel to large cities such as LA or NYC could see themselves using this app daily to make sure they aren't being taken advantage of.  
+   - **Scope:** Not very technically challenging—it would just be grabbing user input and running it through an algorithm; having the presets would also be easy because it would just auto-do what it needs to do. The stripped down version might be a little boring. I see it as more of a one-purpose calculator app like the name suggests; it really only serves one purpose. While it's functional, there's not much to explore or interact with beyond entering a number and seeing the result, so it’s not particularly cool.  
+
+2. **Flash Cards**  
+   - **Description:** Users create personal flashcards for their interests; these can be stored and managed in different groups, so users can create and tap different flashcards when needed.  
+   - **Category:** Education / Productivity 
+   - **Mobile:** Mobile could be essential for this because when studying on the go or in a space where a laptop or PC is not available, users can just go on the app and start using one of the ones they created. Plus, you won’t need to carry a big pile of physical flashcards if you want to study on the go; it's all in the palm of your hand.  
+   - **Story:** When a student needs to study last minute for an exam, he can pull out his phone and start studying while on his commute to school or while eating.  
+   - **Market:** More leaning towards students—the Flashcard app is marketed as a simpler, more clean way to go about flashcard studying.  
+   - **Habit:** An average user might use my app daily if he or she so chooses to study. Realistically, a person might use this app in huge spur-of-the-moment sessions throughout the year such as midterm and finals week, so app may be dormant for 1–2 months but used daily for 1–2 weeks, with this cycle repeating.  
+   - **Scope:** For me it might be technically challenging making sure that all user-saved cards are stored in their location. I can use what we did for the To Do List app to separate the cards into separate groups, and when selecting a group, only the cards in that group would be used for studying. The stripped down version could still be cool—making sure the cards are stored and finding a way to reorganize the cards in a random way while still making sure the Question and Answer don't separate could be a challenge for me at least.  
+
+## Final Decision
+
+- I think I'm going to settle with the Flash Card App, seems to be a bit more challenging but also not as boring as the tip app. I believe a stripped down version is doable, and if I manage to make it work seamlessly I can continue adding features.
+
