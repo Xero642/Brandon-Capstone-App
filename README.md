@@ -151,11 +151,15 @@ Create and organize your own flashcards in just a few taps. Whether you’re stu
 - Record demo video and update README with GIF/screenshots
 
 
-### Models
+### Video Of Progress
 
-
-
-[Add table of models]
+<div>
+    <a href="https://www.loom.com/share/60d33a40e8a84b88adeeff64ddff3415">
+    </a>
+    <a href="https://www.loom.com/share/60d33a40e8a84b88adeeff64ddff3415">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/60d33a40e8a84b88adeeff64ddff3415-55b8a7a6706a5fda-full-play.gif">
+    </a>
+  </div>
 
 ### Networking
 
