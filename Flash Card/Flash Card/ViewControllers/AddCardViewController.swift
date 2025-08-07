@@ -4,25 +4,20 @@
 //
 //  Created by Brandon Lopez on 8/5/25.
 //
-
 import UIKit
-
-protocol AddCardDelegate: AnyObject {
-    func didAddCard(_ card: Flashcard)
-}
 
 class AddCardViewController: UIViewController {
     @IBOutlet weak var questionField: UITextField!
     @IBOutlet weak var answerField: UITextField!
-    
-    weak var delegate: AddCardDelegate?
+
+    var topic: Topic! // Injected from DeckViewController
 
     @IBAction func saveTapped(_ sender: UIButton) {
         guard let q = questionField.text, !q.isEmpty,
               let a = answerField.text, !a.isEmpty else { return }
 
-        let newCard = Flashcard(question: q, answer: a)
-        delegate?.didAddCard(newCard)
+        let newCard = Flashcard(frontContent: q, backContent: a)
+        topic.cards.append(newCard)
         dismiss(animated: true)
     }
 
