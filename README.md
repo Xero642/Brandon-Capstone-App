@@ -116,9 +116,6 @@ Create and organize your own flashcards in just a few taps. Whether you’re stu
 ## Wireframes
 
 <img src="assets/wireframe.png" width="600" alt="Hand-sketched wireframes">
-<img src="assets/SC1.png" width="600" alt="Hand-sketched wireframes">
-<img src="assets/SC2.png" width="600" alt="Hand-sketched wireframes">
-<img src="assets/SC3.png" width="600" alt="Hand-sketched wireframes">
 
 ### [BONUS] Digital Wireframes & Mockups
 
