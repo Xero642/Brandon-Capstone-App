@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Flash Card
+//  FlashCard-Final
 //
-//  Created by Brandon Lopez on 8/6/25.
+//  Created by Brandon Lopez on 8/12/25.
 //
 
 import UIKit

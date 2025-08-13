@@ -17,12 +17,9 @@ Create and organize your own flashcards in just a few taps. Whether you’re stu
 
 -Create unlimited flashcards and save them for later
 
--Organize cards into custom groups or subjects
-
 -Edit or delete any card or group at any time
 
--Shuffle your deck for a fresh, randomized study session whenever you hit “Study”
-
+-Be able to rotate through cards created
 
 
 ### App Evaluation
@@ -41,35 +38,26 @@ Create and organize your own flashcards in just a few taps. Whether you’re stu
 
 **Required Must-have Stories**
 
-* User can create new "family" of Flash Cards
 * User can create a new Flashcard - Flash Card consists of Question & Answer
-* User can add Flashcard's to the "family" of flash cards
 * User can edit and delete Flashcards 
-* User can edit and delete "family" of flashcards 
-* User's can enter study mode and tap on the screen to see answer of question
+* User's can  study with cards and tap on the button to see answer of question
 * User's Flashcards will be saved locally for offline use.
 
 **Optional Nice-to-have Stories**
 
-* User can edit color scheme per family of Flash Cards 
 * User can randomize the order Flashcards apear in
+* User can create diffrent topics for flashacrds 
+* User can freely leave any topic and switch.
 
 ### 2. Screen Archetypes
 
 ## 2. Screen Archetypes
 
-- **Deck List Screen**  
-  *Shows all “families” of flash cards*  
+- **Topic List Screen**  
+  *Shows all “Topic” of flash cards*  
   - **Required Stories:**  
-    - User can create new family of Flash Cards  
-    - User can edit and delete families  
+    - User can create new topics of Flash Cards  
     - User’s flashcards are saved locally for offline use  
-
-- **Family Detail (Card List) Screen**  
-  *Shows all cards in a selected family*  
-  - **Required Stories:**  
-    - User can add Flashcards to the family  
-    - User can edit and delete individual Flashcards  
 
 - **Card Edit/Create Screen**  
   *Form for entering Question & Answer*  
@@ -121,10 +109,6 @@ Create and organize your own flashcards in just a few taps. Whether you’re stu
 
 ### [BONUS] Interactive Prototype
 
-## Schema 
-
-[This section will be completed in Unit 9]
-
 ## Sprint Plan
 
 ## Development Timeline (Sprints)
@@ -145,8 +129,6 @@ Create and organize your own flashcards in just a few taps. Whether you’re stu
 - Add ability to create, edit, and delete flashcards and families
 - Implement study mode screen (flip through cards)
 - Save data locally using UserDefaults or Codable + FileManager
-- Implement shuffle/randomization
-- Optional: Add color scheme feature per family
 - Final polish and bug fixes
 - Record demo video and update README with GIF/screenshots
 
@@ -158,6 +140,16 @@ Create and organize your own flashcards in just a few taps. Whether you’re stu
     </a>
     <a href="https://www.loom.com/share/60d33a40e8a84b88adeeff64ddff3415">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/60d33a40e8a84b88adeeff64ddff3415-55b8a7a6706a5fda-full-play.gif">
+    </a>
+  </div>
+
+### Video Of Final Project
+
+<div>
+    <a href="https://www.loom.com/share/8e347059179b431db2b455bc7ec6cae3">
+    </a>
+    <a href="https://www.loom.com/share/8e347059179b431db2b455bc7ec6cae3">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8e347059179b431db2b455bc7ec6cae3-a8b56f2070601744-full-play.gif">
     </a>
   </div>
 

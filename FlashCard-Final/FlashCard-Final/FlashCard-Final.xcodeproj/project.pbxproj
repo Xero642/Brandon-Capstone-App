@@ -7,32 +7,32 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		8DB71FEE2E43297600554B56 /* Flash Card.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flash Card.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8DED8D2B2E4B2D3300AD1270 /* FlashCard-Final.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "FlashCard-Final.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		8DB720002E43297800554B56 /* Exceptions for "Flash Card" folder in "Flash Card" target */ = {
+		8DED8D3D2E4B2D3400AD1270 /* Exceptions for "FlashCard-Final" folder in "FlashCard-Final" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 8DB71FED2E43297600554B56 /* Flash Card */;
+			target = 8DED8D2A2E4B2D3300AD1270 /* FlashCard-Final */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		8DB71FF02E43297600554B56 /* Flash Card */ = {
+		8DED8D2D2E4B2D3300AD1270 /* FlashCard-Final */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				8DB720002E43297800554B56 /* Exceptions for "Flash Card" folder in "Flash Card" target */,
+				8DED8D3D2E4B2D3400AD1270 /* Exceptions for "FlashCard-Final" folder in "FlashCard-Final" target */,
 			);
-			path = "Flash Card";
+			path = "FlashCard-Final";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		8DB71FEB2E43297600554B56 /* Frameworks */ = {
+		8DED8D282E4B2D3300AD1270 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8DB71FE52E43297600554B56 = {
+		8DED8D222E4B2D3300AD1270 = {
 			isa = PBXGroup;
 			children = (
-				8DB71FF02E43297600554B56 /* Flash Card */,
-				8DB71FEF2E43297600554B56 /* Products */,
+				8DED8D2D2E4B2D3300AD1270 /* FlashCard-Final */,
+				8DED8D2C2E4B2D3300AD1270 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		8DB71FEF2E43297600554B56 /* Products */ = {
+		8DED8D2C2E4B2D3300AD1270 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8DB71FEE2E43297600554B56 /* Flash Card.app */,
+				8DED8D2B2E4B2D3300AD1270 /* FlashCard-Final.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8DB71FED2E43297600554B56 /* Flash Card */ = {
+		8DED8D2A2E4B2D3300AD1270 /* FlashCard-Final */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8DB720012E43297800554B56 /* Build configuration list for PBXNativeTarget "Flash Card" */;
+			buildConfigurationList = 8DED8D3E2E4B2D3400AD1270 /* Build configuration list for PBXNativeTarget "FlashCard-Final" */;
 			buildPhases = (
-				8DB71FEA2E43297600554B56 /* Sources */,
-				8DB71FEB2E43297600554B56 /* Frameworks */,
-				8DB71FEC2E43297600554B56 /* Resources */,
+				8DED8D272E4B2D3300AD1270 /* Sources */,
+				8DED8D282E4B2D3300AD1270 /* Frameworks */,
+				8DED8D292E4B2D3300AD1270 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				8DB71FF02E43297600554B56 /* Flash Card */,
+				8DED8D2D2E4B2D3300AD1270 /* FlashCard-Final */,
 			);
-			name = "Flash Card";
+			name = "FlashCard-Final";
 			packageProductDependencies = (
 			);
-			productName = "Flash Card";
-			productReference = 8DB71FEE2E43297600554B56 /* Flash Card.app */;
+			productName = "FlashCard-Final";
+			productReference = 8DED8D2B2E4B2D3300AD1270 /* FlashCard-Final.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		8DB71FE62E43297600554B56 /* Project object */ = {
+		8DED8D232E4B2D3300AD1270 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					8DB71FED2E43297600554B56 = {
+					8DED8D2A2E4B2D3300AD1270 = {
 						CreatedOnToolsVersion = 16.4;
 					};
 				};
 			};
-			buildConfigurationList = 8DB71FE92E43297600554B56 /* Build configuration list for PBXProject "Flash Card" */;
+			buildConfigurationList = 8DED8D262E4B2D3300AD1270 /* Build configuration list for PBXProject "FlashCard-Final" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 8DB71FE52E43297600554B56;
+			mainGroup = 8DED8D222E4B2D3300AD1270;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 8DB71FEF2E43297600554B56 /* Products */;
+			productRefGroup = 8DED8D2C2E4B2D3300AD1270 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8DB71FED2E43297600554B56 /* Flash Card */,
+				8DED8D2A2E4B2D3300AD1270 /* FlashCard-Final */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		8DB71FEC2E43297600554B56 /* Resources */ = {
+		8DED8D292E4B2D3300AD1270 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		8DB71FEA2E43297600554B56 /* Sources */ = {
+		8DED8D272E4B2D3300AD1270 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,7 +138,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		8DB720022E43297800554B56 /* Debug */ = {
+		8DED8D3F2E4B2D3400AD1270 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -146,7 +146,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Flash Card/Info.plist";
+				INFOPLIST_FILE = "FlashCard-Final/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -157,7 +157,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Brandon.L.Flash-Card";
+				PRODUCT_BUNDLE_IDENTIFIER = "Brandon.L.FlashCard-Final";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -165,7 +165,7 @@
 			};
 			name = Debug;
 		};
-		8DB720032E43297800554B56 /* Release */ = {
+		8DED8D402E4B2D3400AD1270 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -173,7 +173,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Flash Card/Info.plist";
+				INFOPLIST_FILE = "FlashCard-Final/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -184,7 +184,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Brandon.L.Flash-Card";
+				PRODUCT_BUNDLE_IDENTIFIER = "Brandon.L.FlashCard-Final";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -192,7 +192,7 @@
 			};
 			name = Release;
 		};
-		8DB720042E43297800554B56 /* Debug */ = {
+		8DED8D412E4B2D3400AD1270 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -255,7 +255,7 @@
 			};
 			name = Debug;
 		};
-		8DB720052E43297800554B56 /* Release */ = {
+		8DED8D422E4B2D3400AD1270 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -314,25 +314,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8DB71FE92E43297600554B56 /* Build configuration list for PBXProject "Flash Card" */ = {
+		8DED8D262E4B2D3300AD1270 /* Build configuration list for PBXProject "FlashCard-Final" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8DB720042E43297800554B56 /* Debug */,
-				8DB720052E43297800554B56 /* Release */,
+				8DED8D412E4B2D3400AD1270 /* Debug */,
+				8DED8D422E4B2D3400AD1270 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8DB720012E43297800554B56 /* Build configuration list for PBXNativeTarget "Flash Card" */ = {
+		8DED8D3E2E4B2D3400AD1270 /* Build configuration list for PBXNativeTarget "FlashCard-Final" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8DB720022E43297800554B56 /* Debug */,
-				8DB720032E43297800554B56 /* Release */,
+				8DED8D3F2E4B2D3400AD1270 /* Debug */,
+				8DED8D402E4B2D3400AD1270 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 8DB71FE62E43297600554B56 /* Project object */;
+	rootObject = 8DED8D232E4B2D3300AD1270 /* Project object */;
 }
